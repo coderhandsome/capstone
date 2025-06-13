@@ -16,3 +16,7 @@ Dengan EduSign, kami ingin memperkenalkan BISINDO secara interaktif dan mendoron
 - ✅ Sesi mentoring telah dilakukan
 - 🔄 Masa tahap implementasi desain ke kode
 - ⏳ Uji coba dan penyempurnaan model
+
+## 🎯 Target/Sasaran
+- Masyarakat yang mengalami kekurangan dalam masalah pendengaran dan masalah dalam berbicara
+- Individu yang ingin belajar bahasa isyarat
